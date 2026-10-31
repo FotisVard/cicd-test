@@ -1,6 +1,6 @@
 # CI/CD Lab Starter
 
-A small Express and TypeScript app for the CI/CD Crash Course. Use this starting point to follow along with automated testing, GitHub Actions, and deployment to Render.
+A Express and typescript app for CI/CD pipelines. Use this starting point to follow along with automated testing, GitHub Actions, and deployment to Render.
 
 The starter includes a home page, a health endpoint, and a passing health endpoint test. You will add the combined `verify` script, GitHub Actions workflow, and version endpoint during the course.
 
